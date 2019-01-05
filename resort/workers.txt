@@ -1,0 +1,5 @@
+
+1	sanjay	11	7	1999	17	male	add	976454445	msc	1
+2	roshini	11	1	1999	18	female	thj	86646543	ca	1
+2	roshini	11	1	1999	18	f	thj	56546546	ca	1
+2	roshini	11	1	1999	18	f	thj	56546546	ca	1

@@ -1,0 +1,7 @@
+
+1	sanjay	18	7	1999	18	male	thj	9876	student 1000
+7	karti	21	23	224	2	mdf	efdvdv	354678	fgfdv 2000
+9	khdjksd	82	4	45	7	fgfdb	jggfb	437589	gdfb 100
+11	safvdv	234	2	234	234	gfg	dgfd	3534	dfb 3000
+13	qeq	324	35	46	46	fb	dfgfdb	3456789	fds 5000
+14	sanjay	21	10	1998	18	male	tha	9876543222dgg	dgg	100
